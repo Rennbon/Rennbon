@@ -2,7 +2,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rennbon&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rennbon&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rennbon&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rennbon&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rennbon&theme=github)
 
 
