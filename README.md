@@ -1,1 +1,5 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=Rennbon&theme=highcontrast&show_icons=true&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rennbon&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rennbon&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rennbon&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rennbon&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rennbon&theme=github)
