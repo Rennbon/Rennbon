@@ -1,7 +1,6 @@
 ###  I'm Rennbon!
 
-<img align="" src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.szonline.net%2F2018%2F0509%2F20180509021947212.gif&refer=http%3A%2F%2Fimg.szonline.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1647803143&t=c0318fa5feacd15cdda34e166d17ffde" width="200" height="200"/>
-</br></br></br>
+![image](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.szonline.net%2F2018%2F0509%2F20180509021947212.gif&refer=http%3A%2F%2Fimg.szonline.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1647803143&t=c0318fa5feacd15cdda34e166d17ffde)
 ### Here are some ideas to get you started:</br>
 - 追逐梦想的地球人
 
