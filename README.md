@@ -1,4 +1,5 @@
-###  I'm Rennbon!
+###  I'm Rennbon! 
+![](https://komarev.com/ghpvc/?username=your-github-username)
 ### 追逐梦想的地球人，喜欢探索各种好玩的事物。
 
 ![](https://github-readme-stats.vercel.app/api?username=Rennbon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
